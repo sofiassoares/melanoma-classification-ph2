@@ -79,7 +79,7 @@ st.markdown("""
 <div style="text-align: center;">
   <h1>Análise de Classificação de Lesões de Pele</h1>
   <p><strong>Trabalho Prático - Dataset PH2</strong></p>
-  <p>Sofia [Sobrenome] | Outubro de 2025</p>
+  <p>Sofia Soares | Outubro de 2025</p>
 </div>
 """, unsafe_allow_html=True)
 
