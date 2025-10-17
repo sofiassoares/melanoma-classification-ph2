@@ -1,4 +1,4 @@
-# 🔬 Classificação Automática de Melanomas e Nevos
+# Classificação Automática de Melanomas e Nevos
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)](https://scikit-learn.org/)
@@ -9,7 +9,7 @@
 
 Trabalho desenvolvido para a disciplina de **Inteligência Artificial** do curso de **Análise e Desenvolvimento de Sistemas** da **Universidade Federal do Ceará - Campus Itapajé**.
 
-## 📊 Sobre o Projeto
+## Sobre o Projeto
 
 Este trabalho investiga a aplicação de **técnicas clássicas de visão computacional** combinadas com **algoritmos de aprendizado de máquina** para classificação automática de lesões de pele em três categorias:
 
@@ -17,7 +17,7 @@ Este trabalho investiga a aplicação de **técnicas clássicas de visão comput
 - 🟡 **Nevos Atípicos** (benigno com padrões incomuns - 80 amostras)
 - 🔴 **Melanomas** (maligno - 40 amostras)
 
-### 🎯 Principais Resultados
+### Principais Resultados
 
 | Rank | Técnica | Variante | Classificador | F1-Score |
 |------|---------|----------|---------------|----------|
@@ -29,7 +29,7 @@ Este trabalho investiga a aplicação de **técnicas clássicas de visão comput
 
 **Insight principal:** Descritores locais (LBP, GLCM) se beneficiam da segmentação com máscara (+15.6% e +8.6%), enquanto descritores globais (Momentos de Hu) preferem o contexto da imagem completa.
 
-## 🚀 Como Usar
+## Como Usar
 
 ### **1. Clonar o Repositório**
 git clone https://github.com/sofiassoares/melanoma-classification-ph2.git
@@ -56,15 +56,15 @@ data/
 
 O projeto é dividido em **3 scripts sequenciais**. Execute na ordem:
 
-#### **📋 Script 1: Gerar Rótulos (`00_make_labels.py`)**
+#### **Script 1: Gerar Rótulos (`00_make_labels.py`)**
 
 ---
 
-#### **🔬 Script 2: Extrair Características (`01_extract_features.py`)**
+#### **Script 2: Extrair Características (`01_extract_features.py`)**
 
 ---
 
-#### **🤖 Script 3: Treinar e Avaliar Modelos (`02_classify.py`)**
+#### **Script 3: Treinar e Avaliar Modelos (`02_classify.py`)**
 
 
 ---
@@ -75,7 +75,7 @@ streamlit run app.py
 
 Acesse: [**http://localhost:**](http://localhost:)
 
-## 🚀 Preview do Dashboard
+## Preview do Dashboard
 ![Ia_classify](https://github.com/user-attachments/assets/473fbe7f-e3d7-4906-a1a4-0bdf1d0861d9)
 
 
