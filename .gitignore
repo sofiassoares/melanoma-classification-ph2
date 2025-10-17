@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+.ipynb_checkpoints/
+data/orig/
+data/mask/
+data/*.png
+data/*.jpg
+confusions/
+folds/
+models/*.pkl
+!models/results.csv
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+*.aux
+*.log
+*.out
+*.toc
