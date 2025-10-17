@@ -76,15 +76,8 @@ streamlit run app.py
 Acesse: [**http://localhost:**](http://localhost:)
 
 ## 🚀 Preview do Dashboard
-![Demo](ia_classify.gif)
+![Ia_classify](https://github.com/user-attachments/assets/473fbe7f-e3d7-4906-a1a4-0bdf1d0861d9)
 
-
-**Funcionalidades do dashboard:**
-- 📊 Tabela interativa com os 36 resultados
-- 🔥 Heatmap de F1-Score (6 datasets × 6 modelos)
-- 📈 Gráficos comparativos (Original vs Máscara)
-- 🖼️ Visualização de matrizes de confusão
-- 🔍 Filtros por técnica ou classificador
 
 
 
