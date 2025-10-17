@@ -76,7 +76,8 @@ streamlit run app.py
 Acesse: [**http://localhost:**](http://localhost:)
 
 ## Preview do Dashboard
-![Ia_classify](https://github.com/user-attachments/assets/473fbe7f-e3d7-4906-a1a4-0bdf1d0861d9)
+![ia_dashboard](https://github.com/user-attachments/assets/2f050964-5da7-41a2-97ca-fc27dd93c898)
+
 
 
 
