@@ -75,6 +75,10 @@ streamlit run app.py
 
 Acesse: [**http://localhost:**](http://localhost:)
 
+## 🚀 Preview do Dashboard
+![Demo](ia_classify.gif)
+
+
 **Funcionalidades do dashboard:**
 - 📊 Tabela interativa com os 36 resultados
 - 🔥 Heatmap de F1-Score (6 datasets × 6 modelos)
